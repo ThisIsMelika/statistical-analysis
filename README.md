@@ -139,7 +139,7 @@ python 02_statistical_analysis.py
 
 ---
 
-##Future Work
+## Future Work
 
 Validation using real-world IoT traffic datasets
 
@@ -151,7 +151,7 @@ Performance evaluation using classification metrics (ROC-AUC, F1-score)
 
 ---
 
-##Notes
+## Notes
 
 This project focuses on statistical analysis and interpretability rather
 than deployment-ready intrusion detection systems.
@@ -160,9 +160,10 @@ assumption checking, and result interpretation in a cybersecurity context.
 
 ---
 
-##Author
+## Author
 
-Melika Bagherii
+Melika Bagheri
 Statistical Methods Project – 2026
+
 
 
