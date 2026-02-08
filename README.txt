@@ -50,7 +50,7 @@ over black-box machine learning models.
 - `flow_duration_s` — Flow duration (seconds)
 - `avg_pkt_len` — Average packet length (Bytes)
 
-> ⚠️ Note:  
+> Note:  
 > This dataset is intended for **educational and analytical purposes** and is
 > not meant for direct deployment in real-world intrusion detection systems.
 
@@ -163,8 +163,3 @@ assumption checking, and result interpretation in a cybersecurity context.
 
 Melika Bagherii
 Statistical Methods Project – 2026
-
-
-
-
-## Repository Structure
