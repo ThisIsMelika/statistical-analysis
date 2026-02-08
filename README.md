@@ -127,7 +127,7 @@ The analysis follows a structured statistical workflow:
 ```bash
 git clone https://github.com/ThisIsMelika/statistical-analysis.git
 cd statistical-analysis
-
+```
 2.Install required dependencies:
 pip install pandas numpy scipy statsmodels matplotlib
 
@@ -163,3 +163,4 @@ assumption checking, and result interpretation in a cybersecurity context.
 
 Melika Bagherii
 Statistical Methods Project – 2026
+
