@@ -162,8 +162,9 @@ assumption checking, and result interpretation in a cybersecurity context.
 
 ## Author
 
-Melika Bagheri
-Statistical Methods Project – 2026
+Melika Bagheri | 
+ Statistical Methods Project – 2026
+
 
 
 
