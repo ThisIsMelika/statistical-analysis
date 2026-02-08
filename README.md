@@ -91,12 +91,13 @@ The analysis follows a structured statistical workflow:
 
 ---
 ## Repository Structure
-├── 01_generate_dataset.py # Synthetic dataset generation
-├── 02_statistical_analysis.py # Main statistical analysis pipeline
-├── iot_ddos_synthetic.csv # Generated dataset
-├── Stat_Project_DDoS_IoT_MelikaBagheri.pdf # Final project report
+```text
+├── 01_generate_dataset.py        # Synthetic dataset generation
+├── 02_statistical_analysis.py    # Main statistical analysis pipeline
+├── iot_ddos_synthetic.csv        # Generated dataset
+├── Stat_Project_DDoS_IoT_MelikaBagheri.pdf  # Final project report
 └── README.md
-
+```
 
 ---
 
@@ -163,4 +164,5 @@ assumption checking, and result interpretation in a cybersecurity context.
 
 Melika Bagherii
 Statistical Methods Project – 2026
+
 
